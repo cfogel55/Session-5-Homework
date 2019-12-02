@@ -1,4 +1,4 @@
-##Pymaceuticals Inc
+Pymaceuticals
 
 Activity to analyze data associated with drug treatments given to mice over the course of 45 days to show how the four treatments compare.
 
